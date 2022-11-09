@@ -69,7 +69,7 @@ class _DemoMessageList extends StatelessWidget {
       children: [
         _DateLable(lable: 'Yesterday'),
         _MessageTitle(
-          message: "Hi, Lucy!"
+          message: "Hi, Lucy! bacchi"
               messageD
         )
       ],
